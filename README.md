@@ -4,7 +4,7 @@ Este proyecto consiste en una colección de tarjetas de presentación personaliz
 
 Demostración Visual:
 
- 🔗 [(http://beta.adalab.es/project-promo-a-pt-module-3-team-1/)](http://beta.adalab.es/project-promo-A-pt-module-4-team-1/)
+ 🔗 http://beta.adalab.es/project-promo-A-pt-module-4-team-1/
 
 
 **¿Cómo Usar?**
